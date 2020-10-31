@@ -6,6 +6,7 @@
   "homepage": "https://github.com/Furkan581907/Socket-io-LiveBall",
   "dependencies": {
     "angular": "^1.8.2",
-    "semantic": "^2.4.1"
+    "semantic": "^2.4.1",
+    "jquery": "^3.5.1"
   }
 }
